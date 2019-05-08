@@ -1,0 +1,11 @@
+What is Html-Php Nested?
+
+That's are Html-Php Combination Code and seperat to Php code From Html-Php Combination Code.
+
+Rules of Nested:
+1.Php code start <?php(Php starting)............when see any html code then befor ?>(php closing).
+2.<?php...............?> then html and again Php code use <?php............and come next html php close.....?>
+3.If we are see a single "{" in php ,after and before "{" have html then writte on.....
+<?php
+{
+?> 
